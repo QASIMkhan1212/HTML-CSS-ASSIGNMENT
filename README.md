@@ -1,2 +1,2 @@
-# HTML-CSS-ASSIGNMENT
-This is the HTML CSS ASSIGNMENT
+# HTML-CSS-projectas
+These are the HTML CSS projects
